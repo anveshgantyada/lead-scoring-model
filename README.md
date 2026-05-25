@@ -1,4 +1,4 @@
-# BDR Prioritization Model — DS Assignment
+# BDR Prioritization Model
 
 ## Live App
 [Click here to view the app](https://gkepgepxh6rvnardtqztii.streamlit.app/)
